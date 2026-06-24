@@ -11,6 +11,14 @@ catboost
 mlxtend
 mlflow
 mlflow-skinny
+flask
+pandas
+numpy
+scikit-learn
+xgboost
+catboost
+dill
+gunicorn
 
 -e .
 
